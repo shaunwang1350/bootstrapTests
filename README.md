@@ -12,3 +12,4 @@ Nothing to see here ;)
 - "jquery": "^3.6.0",
 - "lite-server": "^2.6.1",
 - "popper.js": "^1.16.1"
+- 'font-awesome'
